@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">String_in_Java</string>
+    <string name="Data_Entered">Your TODO List Items:</string>
+    <string name="Enter_Data">Enter Your Tasks TODO :</string>
+    <string name="Enter">Enter</string>
+    <string name="tv1">Item 1</string>
+    <string name="tv2">Item 2</string>
+    <string name="tv3">Item 3</string>
+    <string name="tv4">Item 4</string>
+    <string name="tv5">Item 5</string>
+    <string name="hint_to_enter">Enter Here</string>
+
+</resources>
